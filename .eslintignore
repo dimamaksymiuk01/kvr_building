@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+.next/
+.serverless/
+\*.md
+coverage/
+next-env.d.ts
+next.config.js
+coverage
+build
