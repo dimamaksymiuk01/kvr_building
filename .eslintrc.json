@@ -8,7 +8,6 @@
     "next/core-web-vitals",
     "plugin:@typescript-eslint/recommended",
     "plugin:react/recommended",
-    "plugin:react-hooks/recommended",
     "plugin:import/recommended",
     "plugin:import/typescript",
     "prettier"
@@ -22,13 +21,7 @@
     "sourceType": "module",
     "project": "./tsconfig.json"
   },
-  "plugins": [
-    "react",
-    "react-hooks",
-    "@typescript-eslint",
-    "import",
-    "prettier"
-  ],
+  "plugins": ["react", "@typescript-eslint", "import", "prettier"],
   "settings": {
     "react": {
       "version": "detect"
