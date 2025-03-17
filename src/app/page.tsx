@@ -1,7 +1,7 @@
 export type test = {
-  test: any
-}
+  test: any;
+};
 
 export default function Home() {
-  return <div />;
+  return <div></div>;
 }
